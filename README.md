@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/480d4482-e59e-480e-8250-a5a4557efcf3)
+
 Expansión Estratégica de Biogenesys con Python
 Introducción
 El objetivo principal del proyecto es identificar las ubicaciones óptimas para la expansión de laboratorios farmacéuticos en Latinoamérica. Para ello, se realizará un análisis de datos de incidencia de COVID-19, tasas de vacunación y disponibilidad de infraestructuras sanitarias.
