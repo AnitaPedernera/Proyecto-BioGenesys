@@ -57,14 +57,19 @@ El reporte por País ofrece un panorama completo de cada país. Se observan las 
 El reporte de Población aborda indicadores de salud relevantes para la población. Se observan visualizaciones de: Gráfico de columnas agrupadas: compara la Prevalencia de Fumar y Prevalencia de Diabetes por país. Gráfico de columnas: muestra el PBI per cápita USD y las Expectativas de Vida por país. Gráfico de anillos: representa el Ratio de Mortalidad Femenina y Masculina.
 Por último la Conclusión extrae conclusiones relevantes a partir del análisis de datos.
 
+![image](https://github.com/user-attachments/assets/a5837ec4-d8b3-4c9c-8c59-39de2ebf07db)
 
+![image](https://github.com/user-attachments/assets/ae1c7432-b6e8-4f8a-bc6a-0ada6632773a)
+
+![image](https://github.com/user-attachments/assets/f443b9c5-e458-4218-9977-d58575fe4256)
+
+![image](https://github.com/user-attachments/assets/804629bb-b9e1-47ee-b80d-26ab2f583c58)
 
 Conclusiones y Recomendaciones
 Brasil y México en primera medida: presentan un panorama favorable para el sector salud, posicionándose como mercados con un alto potencial de crecimiento. Ambos países presentan las poblaciones más grandes de Latinoamérica. Esto se traduce en una amplia base de consumidores potenciales para productos y servicios médicos. La distribución de la población se encuentra principalmente en zonas urbanas. Este aspecto es relevante, ya que las áreas urbanas suelen tener mayor acceso a servicios de salud y mayor capacidad de pago. Brasil y México lideran en la región en cuanto a casos confirmados de COVID-19 y dosis de vacunas administradas. Esta situación refleja la necesidad de un mayor acceso a productos y servicios médicos. Si bien el PIB per cápita de ambos países se encuentra en un rango medio, este indicador no refleja necesariamente la capacidad de pago de la población. Existen segmentos de la población con mayor poder adquisitivo que pueden acceder a servicios de salud privados y productos más costosos. 
 Argentina y Colombia como mercados alternativos: Si bien Chile y Perú presentan un panorama favorable en cuanto al control de la pandemia y la vacunación de su población, Argentina y Colombia se perfilan como mercados alternativos con potencial de crecimiento en el sector salud. Argentina y Colombia cuentan con poblaciones más grandes que Chile y Perú. Esto implica una base de consumidores potenciales más amplia para productos y servicios médicos. Al igual que en Chile y Perú, la población de ambos países se concentra principalmente en zonas urbanas. Este aspecto es relevante por las razones mencionadas anteriormente. La relación de población y dosis de vacunas administradas es menor en Argentina y Colombia en comparación con Chile y Perú,  por lo que la demanda de productos y servicios médicos sigue siendo alta. La numerosa y creciente población, la demanda de productos y servicios médicos, y la relativa capacidad de pago de la población, son factores que sustentan esta afirmación.
  
 
-![image](https://github.com/user-attachments/assets/804629bb-b9e1-47ee-b80d-26ab2f583c58)
 
 
 Reflexión personal
